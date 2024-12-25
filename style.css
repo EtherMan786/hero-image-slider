@@ -96,6 +96,8 @@ header a {
     letter-spacing: 3px;
     font-family: Poppins;
     font-weight: 500;
+    cursor: pointer;
+    transition: .5s;
 }
 
 .carousel .list .item .buttons button:hover {
